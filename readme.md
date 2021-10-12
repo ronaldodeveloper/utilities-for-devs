@@ -13,6 +13,9 @@ https://www.javascriptprogressivo.net/p/introducao-ao-javascript-tutorial.html
 
 ### **Guru99** - tutorial
 https://www.guru99.com/interactive-javascript-tutorials.html
+
+### **js the right way** - tutorial
+http://jstherightway.org/pt-br/#js-code-style
 <hr>
 <br />
 
@@ -55,7 +58,7 @@ https://reactstrap.github.io
 ### **react-router-dom** - routers
 https://reactrouter.com/web/guides/quick-start
 
-### **react icons** - icons
+### **react-icons** - icons
 https://react-icons.github.io/react-icons
 
 ### **node-sass** - sass
@@ -67,7 +70,7 @@ https://www.npmjs.com/package/react-elastic-carousel
 ### **react-player** - lib
 https://www.npmjs.com/package/react-player
 
-### **react use** 
+### **react use** - hook list
 https://github.com/streamich/react-use
 
 ### **Bootcamp React.js - Fernando Daciuk** - tutorial
@@ -115,24 +118,12 @@ https://www.postgresqltutorial.com
 <hr>
 <br />
 
-## **Tutorial**
-### **Tutorials Teacher**
-https://www.tutorialsteacher.com
-<hr>
-<br />
-
 ## **Git**
 ### **Git** - Guia Prático
 https://rogerdudler.github.io/git-guide/index.pt_BR.html
 
 ### **Youtube** - tutorial 
 https://www.youtube.com/watch?v=Yp0RRTdtkqY
-<hr>
-<br />
-
-## **Courses**
-### **Typing**
-https://www.typingclub.com/sportal/program-21.game
 <hr>
 <br />
 
@@ -214,9 +205,44 @@ https://app.diagrams.net
 <hr>
 <br />
 
+## **Tutorials**
+### **Tutorials Teacher**
+https://www.tutorialsteacher.com
+
+### **Sitepoint**
+https://www.sitepoint.com/premium/library
+<hr>
+<br />
+
+## **Courses Online**
+### **Typing**
+https://www.typingclub.com/sportal/program-21.game
+<hr>
+<br />
+
 ## Exercises
 ### **mundojs** 
 https://www.mundojs.com.br/category/exercicios/#page-content
+
+### **hackerrank**
+https://www.hackerrank.com/dashboard 
+
+### **leetcode**
+https://leetcode.com
+
+### **exercism** 
+https://exercism.org
+
+### **codewars**
+https://www.codewars.com
+
+### **Interview Questions** 
+https://h5bp.org/Front-end-Developer-Interview-Questions/translations/portuguese
+
+### **** 
+### **** 
+### **** 
+
 <hr>
 <br />
 
