@@ -7,12 +7,21 @@ https://eloquentjavascript.net
 
 ### **Axel Rauschmayer** - book online
 https://exploringjs.com
+
+### **javascript progressivo** - tutorial
+https://www.javascriptprogressivo.net/p/introducao-ao-javascript-tutorial.html
+
+### **Guru99** - tutorial
+https://www.guru99.com/interactive-javascript-tutorials.html
 <hr>
 <br />
 
 ## **Node JS**
 ### **MDN** - Introdução Express / Node
 https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction
+
+### **Modules A-Z**
+https://github.com/aravindnc/A-to-Z-List-of-Useful-Node.js-Modules
 
 ### **node-postgres** - database integration
 https://node-postgres.com/features/queries
@@ -33,17 +42,23 @@ https://www.youtube.com/playlist?list=PL9aKtVrF05DyEwK5kdvzrYXFdpZfj1dsG
 <hr>
 <br />
 
-## **React JS**
-### **react-bootstrap** - lib
+## **React JS** 
+### **axios** - cliente http
+https://axios-http.com/docs/intro
+
+### **react-bootstrap** - components UI
 https://react-bootstrap.github.io/getting-started/introduction
 
-### **react-router-dom** -lib
+### **reactstrap** - components UI
+https://reactstrap.github.io
+
+### **react-router-dom** - routers
 https://reactrouter.com/web/guides/quick-start
 
-### **react icons** - lib
+### **react icons** - icons
 https://react-icons.github.io/react-icons
 
-### **node-sas** - lib
+### **node-sass** - sass
 https://www.npmjs.com/package/node-sass
 
 ### **react-elastic-carousel** - lib
@@ -173,11 +188,11 @@ https://thecssgallerylist.com
 <hr>
 <br />
 
-## **Tools**
-### **css**
+## **Tools Online**
+### **css** 
 https://www.cssportal.com
 
-### **flaticon**
+### **flaticon** - icon
 https://www.flaticon.com
 
 ### **color**
@@ -185,9 +200,23 @@ https://material.io/resources/color/#!/?view.left=1&view.right=1&primary.color=8
 
 https://color.adobe.com/pt/create/color-wheel
 
-### **vetor** - downloads
+https://uigradients.com
+
+### **vetor** - svg downloads
 https://br.freepik.com/search?dates=any&format=search&page=1&sort=popular&type=vector
 
+### **Trello** - scrum framework
+https://trello.com
+
+### **Draw io** - creating diagrams UML
+https://app.diagrams.net
+
+<hr>
+<br />
+
+## Exercises
+### **mundojs** 
+https://www.mundojs.com.br/category/exercicios/#page-content
 <hr>
 <br />
 
