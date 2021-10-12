@@ -37,6 +37,9 @@
 ### **Express JS** - framework
 > https://expressjs.com/pt-br/4x/api.html
 
+### **uuid** - id random
+> https://www.npmjs.com/package/uuid
+
 ### **Rithm School** - tutorial
 > https://www.rithmschool.com/courses/intermediate-node-express
 
