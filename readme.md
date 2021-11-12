@@ -220,7 +220,7 @@
 
 ## **Courses Online**
 ### **Typing**
-> https://www.typingclub.com/sportal/program-21.game
+> https://www.typingclub.com
 <hr>
 <br />
 
