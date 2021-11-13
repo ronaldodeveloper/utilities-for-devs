@@ -210,6 +210,7 @@
 <br />
 
 ## **Tutorials**
+### **W**
 ### **Tutorials Teacher**
 > https://www.tutorialsteacher.com
 
@@ -225,6 +226,9 @@
 <br />
 
 ## Exercises
+### **W3resource**
+> https://www.w3resource.com/javascript-exercises
+
 ### **mundojs** 
 > https://www.mundojs.com.br/category/exercicios/#page-content
 
@@ -243,7 +247,7 @@
 ### **Interview Questions** 
 > https://h5bp.org/Front-end-Developer-Interview-Questions/translations/portuguese
 <hr>
-<br />
+<br />r
 
 
 
