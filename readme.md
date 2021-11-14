@@ -17,6 +17,9 @@
 
 ### **js the right way** - tutorial
 > http://jstherightway.org/pt-br/#js-code-style
+
+### **The Right Way**
+> http://jstherightway.org/pt-br
 <hr>
 <br />
 
