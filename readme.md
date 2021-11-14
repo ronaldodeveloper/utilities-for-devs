@@ -15,9 +15,6 @@
 ### **Guru99** - tutorial
 > https://www.guru99.com/interactive-javascript-tutorials.html
 
-### **js the right way** - tutorial
-> http://jstherightway.org/pt-br/#js-code-style
-
 ### **The Right Way**
 > http://jstherightway.org/pt-br
 <hr>
