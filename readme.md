@@ -190,6 +190,9 @@
 ### **flaticon** - icon
 > https://www.flaticon.com
 
+### **Picsum Photos** - images
+> https://picsum.photos
+
 ### **color**
 > https://material.io/resources/color/#!/?view.left=1&view.right=1&primary.color=80c683
 
