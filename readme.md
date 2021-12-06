@@ -17,9 +17,12 @@
 
 ### **The Right Way**
 > http://jstherightway.org/pt-br
+
+
+### **Javascript.Info**
+> https://javascript.info
 <hr>
 <br />
-
 
 ## **Node JS**
 ### **MDN** - Introdução Express / Node
