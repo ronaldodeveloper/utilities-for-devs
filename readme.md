@@ -27,6 +27,7 @@
 ## **Node JS**
 ### **MDN** - Introdução Express / Node
 > https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction
+> https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/routes
 
 ### **Modules A-Z**
 > https://github.com/aravindnc/A-to-Z-List-of-Useful-Node.js-Modules
