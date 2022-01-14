@@ -124,6 +124,7 @@
 ## **PostgreSQL**
 ### **Postgres** - tutorial
 > https://www.postgresqltutorial.com
+> https://popsql.com/learn-sql/postgresql/how-to-remove-a-default-value-from-a-column-in-postgresql
 <hr>
 <br />
 
