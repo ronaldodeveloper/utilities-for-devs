@@ -25,6 +25,9 @@
 <br />
 
 ## **Node JS**
+### **DEPLOY** - Deploy de API com Express e PostgresSQL no Heroku - Jorge Luis Boeira Bavaresco 
+> https://www.youtube.com/watch?v=GKwdnE-Pon4&list=LL&index=2
+
 ### **MDN** - Introdução Express / Node
 > https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction
 > https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/routes
