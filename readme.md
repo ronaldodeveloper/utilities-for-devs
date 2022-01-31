@@ -127,7 +127,12 @@
 ## **PostgreSQL**
 ### **Postgres** - tutorial
 > https://www.postgresqltutorial.com
+
+> https://www.tutorialspoint.com/postgresql/index.htm
+
 > https://popsql.com/learn-sql/postgresql/how-to-remove-a-default-value-from-a-column-in-postgresql
+
+> https://dev.to/prisma/how-to-setup-a-free-postgresql-database-on-heroku-1dc1
 <hr>
 <br />
 
