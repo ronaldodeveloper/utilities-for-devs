@@ -199,6 +199,7 @@
 ## **Tools Online**
 ### **css** 
 > https://www.cssportal.com
+> https://angrytools.com/gradient
 
 ### **flaticon** - icon
 > https://www.flaticon.com
