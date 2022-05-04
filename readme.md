@@ -197,8 +197,13 @@
 <br />
 
 ## **Tools Online**
+
+### **Animation in React**
+> https://animate.style
+
 ### **UI Components**
-> https://freefrontend.com/
+> https://freefrontend.com
+
 ### **css** 
 > https://www.cssportal.com
 > https://angrytools.com/gradient
