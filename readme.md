@@ -59,7 +59,7 @@
 
 ## **React JS** 
 ### **axios** - cliente > http
-> https://axios-> http.com/docs/intro
+> https://axios-http.com/docs/intro
 
 ### **react-bootstrap** - components UI
 > https://react-bootstrap.github.io/getting-started/introduction
