@@ -280,6 +280,9 @@
 <hr>
 <br />r
 
+## HTML
+### **HTML: O padrão de vida **
+> https://html.spec.whatwg.org/dev/dom.html
 
 
 
