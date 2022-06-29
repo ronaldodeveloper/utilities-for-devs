@@ -278,10 +278,10 @@
 ### **Interview Questions** 
 > https://h5bp.org/Front-end-Developer-Interview-Questions/translations/portuguese
 <hr>
-<br />r
+<br />
 
 ## HTML
-### **HTML: O padrão de vida **
+### ** HTML: O padrão de vida **
 > https://html.spec.whatwg.org/dev/dom.html
 
 
