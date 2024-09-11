@@ -232,6 +232,9 @@
 ### **Draw io** - creating diagrams UML
 > https://app.diagrams.net
 
+### **CDNFonts**
+> https://www.cdnfonts.com/
+ 
 <hr>
 <br />
 
