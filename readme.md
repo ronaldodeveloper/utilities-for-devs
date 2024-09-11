@@ -287,6 +287,12 @@
 > https://html.spec.whatwg.org/dev/dom.html
 
 
+## FIGMA Templates
+### ** Free Figma Templates **
+> https://www.freefigmatemplates.com/website-designs-and-apps
+
+### ** UX CRUSH **
+> https://www.uxcrush.com/figma-website-templates/
 
 
 
