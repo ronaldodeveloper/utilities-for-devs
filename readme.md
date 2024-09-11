@@ -285,7 +285,8 @@
 ## HTML
 ### ** HTML: O padrão de vida **
 > https://html.spec.whatwg.org/dev/dom.html
-
+<hr>
+<br />
 
 ## FIGMA Templates
 ### ** Free Figma Templates **
@@ -293,7 +294,8 @@
 
 ### ** UX CRUSH **
 > https://www.uxcrush.com/figma-website-templates/
-
+<hr>
+<br />
 
 
 
