@@ -209,6 +209,19 @@
 ### **css** 
 > https://www.cssportal.com
 > https://angrytools.com/gradient
+> https://animista.net
+> https://cssbuttons.io
+> https://uiverse.io
+> https://neumorphism.io
+> https://scrollbar.app
+> https://www.joshwcomeau.com/gradient-generator
+> https://cubic-bezier.com
+> https://9elements.github.io/fancy-border-radius
+> https://www.fffuel.co/sssvg
+> https://bennettfeely.com/clippy
+
+
+
 
 ### **flaticon** - icon
 > https://www.flaticon.com
