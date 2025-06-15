@@ -231,6 +231,11 @@
 
 > https://bennettfeely.com/clippy
 
+> https://frontend-snippets.com
+
+> https://freefrontend.com/css-code-examples
+
+> https://css-generator.netlify.app/background-gradient
 
 
 
